@@ -1,0 +1,29 @@
+{
+  "name": "formularios-agencia-distribucion-y-franquicia",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Agencia, distribución, franquicia y colaboración entre empresas · España (34 formularios). Para los contratos de colaboración comercial: agencia (Ley 12/1992), distribución exclusiva y selectiva, concesión, franquicia, comisión, patrocinio, alianzas y joint ventures, y las reclamaciones por indemnización de clientela o por resolución. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-agencia-distribucion-y-franquicia",
+      "source": "./",
+      "description": "Agencia, distribución, franquicia y colaboración entre empresas · España (34 formularios). Para los contratos de colaboración comercial: agencia (Ley 12/1992), distribución exclusiva y selectiva, concesión, franquicia, comisión, patrocinio, alianzas y joint ventures, y las reclamaciones por indemnización de clientela o por resolución. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "distribucion"
+      ]
+    }
+  ]
+}
